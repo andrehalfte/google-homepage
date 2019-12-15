@@ -1,0 +1,1 @@
+First project trying to recreate the home-page from Google. I'm still don't know how to manage the apparience with CSS. I'm looking forward to improve with my CSS. Thanks 
