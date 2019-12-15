@@ -1,0 +1,49 @@
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 12px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0 20px;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.right {
+    float: right;
+    margin-right: 10px;
+}
+
+.footer {
+        background-color: ghostwhite;
+        margin-right: 30px;
+        padding: 1rem;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+      }
+
+.rightsidebot {
+    float: right;
+    margin-right: 30px;
+}
+
+.maincontent {
+    -webkit-appearance: none;
+    padding: 1rem;
+    padding-top: 12rem;
+    position: relative;
+    text-align: center;
+    
+}
+
+.barrabus {
+    -webkit-appearance: none;
+
+}
+
